@@ -25,8 +25,8 @@ Firebase account (for backend)
 2 Android devices for testing (Parent + Child)
 
 # 🔧 Pending Features
-[ ] Firebase console connection
-[ ] Custom logo & splash screen
-[ ] SOS Panic Button For Child
-[ ] Invitation Code Pairing System To Connect Parent And Child Devices
-[ ] Final APK build
+1. Firebase console connection
+2. Custom logo & splash screen
+3. SOS Panic Button For Child
+4. Invitation Code Pairing System To Connect Parent And Child Devices
+5. Final APK build
