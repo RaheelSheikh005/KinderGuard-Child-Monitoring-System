@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "36856115999",
+    "project_id": "kinderguard-fyp",
+    "storage_bucket": "kinderguard-fyp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36856115999:android:7fa9a20c7c9135be9c762a",
+        "android_client_info": {
+          "package_name": "com.mansourappdevelopment.androidapp.kidsafe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsJ67TLjuNkLAOUA69ZYLS14tFebREvd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
